@@ -1,0 +1,1656 @@
+fileFormatVersion: 2
+guid: 2e475e74885cdb64aa3c025fba9b304d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9171159418398436657
+    second: dragon_mat2-removebg_0
+  - first:
+      213: -8404111028376844777
+    second: dragon_mat2-removebg_1
+  - first:
+      213: 6553262382909895569
+    second: dragon_mat2-removebg_2
+  - first:
+      213: 2607945232015186828
+    second: dragon_mat2-removebg_3
+  - first:
+      213: -5295451201029114197
+    second: dragon_mat2-removebg_4
+  - first:
+      213: 5349075149137043308
+    second: dragon_mat2-removebg_5
+  - first:
+      213: -8306070436443073096
+    second: dragon_mat2-removebg_6
+  - first:
+      213: -3062503100400821826
+    second: dragon_mat2-removebg_7
+  - first:
+      213: 275288537795990989
+    second: dragon_mat2-removebg_8
+  - first:
+      213: 8458692966180491255
+    second: dragon_mat2-removebg_9
+  - first:
+      213: 526259294783511189
+    second: dragon_mat2-removebg_10
+  - first:
+      213: 11665058675887764
+    second: dragon_mat2-removebg_11
+  - first:
+      213: 6470717047673435208
+    second: dragon_mat2-removebg_12
+  - first:
+      213: 837382179275011380
+    second: dragon_mat2-removebg_13
+  - first:
+      213: 4552058399212404931
+    second: dragon_mat2-removebg_14
+  - first:
+      213: -7183882733507727123
+    second: dragon_mat2-removebg_15
+  - first:
+      213: 5947022762312854696
+    second: dragon_mat2-removebg_16
+  - first:
+      213: 4331069358360755420
+    second: dragon_mat2-removebg_17
+  - first:
+      213: -5289205484572032550
+    second: dragon_mat2-removebg_18
+  - first:
+      213: 6962520976925339333
+    second: dragon_mat2-removebg_19
+  - first:
+      213: 3753076592505792795
+    second: dragon_mat2-removebg_20
+  - first:
+      213: 6950402396016012263
+    second: dragon_mat2-removebg_21
+  - first:
+      213: -9156682822444393916
+    second: dragon_mat2-removebg_22
+  - first:
+      213: -4448349974114037798
+    second: dragon_mat2-removebg_23
+  - first:
+      213: -3477603553394026215
+    second: dragon_mat2-removebg_24
+  - first:
+      213: 7287886421444538714
+    second: dragon_mat2-removebg_25
+  - first:
+      213: 2683881176850637142
+    second: dragon_mat2-removebg_26
+  - first:
+      213: 1104773884080815582
+    second: dragon_mat2-removebg_27
+  - first:
+      213: 8982966554198543228
+    second: dragon_mat2-removebg_28
+  - first:
+      213: -6033463179690982602
+    second: dragon_mat2-removebg_29
+  - first:
+      213: -2151782343809829781
+    second: dragon_mat2-removebg_30
+  - first:
+      213: 2370992064680217424
+    second: dragon_mat2-removebg_31
+  - first:
+      213: -8231569667077975956
+    second: dragon_mat2-removebg_32
+  - first:
+      213: 8003385159859482194
+    second: dragon_mat2-removebg_33
+  - first:
+      213: -5378392362745636194
+    second: dragon_mat2-removebg_34
+  - first:
+      213: -3737692325051850984
+    second: dragon_mat2-removebg_35
+  - first:
+      213: 8508247357646734239
+    second: dragon_mat2-removebg_36
+  - first:
+      213: 254627977008542039
+    second: dragon_mat2-removebg_37
+  - first:
+      213: 2111693283793743550
+    second: dragon_mat2-removebg_38
+  - first:
+      213: -8689707652334885984
+    second: dragon_mat2-removebg_39
+  - first:
+      213: -1916767839389318946
+    second: dragon_mat2-removebg_40
+  - first:
+      213: -3147466740513371006
+    second: dragon_mat2-removebg_41
+  - first:
+      213: -7659760736238692607
+    second: dragon_mat2-removebg_42
+  - first:
+      213: -6226315865586011520
+    second: dragon_mat2-removebg_43
+  - first:
+      213: 1673385274881343867
+    second: dragon_mat2-removebg_44
+  - first:
+      213: 216665581378357896
+    second: dragon_mat2-removebg_45
+  - first:
+      213: -4853604458059264724
+    second: dragon_mat2-removebg_46
+  - first:
+      213: 2815935591775214794
+    second: dragon_mat2-removebg_47
+  - first:
+      213: 5720099196087758507
+    second: dragon_mat2-removebg_48
+  - first:
+      213: 925163570332501933
+    second: dragon_mat2-removebg_49
+  - first:
+      213: -6686640202197584377
+    second: dragon_mat2-removebg_50
+  - first:
+      213: -7662655616530207263
+    second: dragon_mat2-removebg_51
+  - first:
+      213: -7433351992925597032
+    second: dragon_mat2-removebg_52
+  - first:
+      213: -8978959052107215072
+    second: dragon_mat2-removebg_53
+  - first:
+      213: 5561484409205232673
+    second: dragon_mat2-removebg_54
+  - first:
+      213: 4178836318551870879
+    second: dragon_mat2-removebg_55
+  - first:
+      213: 3261992902751707233
+    second: dragon_mat2-removebg_56
+  - first:
+      213: 8297723145773980084
+    second: dragon_mat2-removebg_57
+  - first:
+      213: 8282446768249340195
+    second: dragon_mat2-removebg_58
+  - first:
+      213: 5341541939874006705
+    second: dragon_mat2-removebg_59
+  - first:
+      213: -6141164875985563996
+    second: dragon_mat2-removebg_60
+  - first:
+      213: 7142995306262479072
+    second: dragon_mat2-removebg_61
+  - first:
+      213: -2366285342325582619
+    second: dragon_mat2-removebg_62
+  - first:
+      213: 1004209148300808782
+    second: dragon_mat2-removebg_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 805
+        width: 171
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc212ef891f79b080800000000000000
+      internalID: -9171159418398436657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 956
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716c7aceb899e5b80800000000000000
+      internalID: -8404111028376844777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_2
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 805
+        width: 151
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1933645aa6dd1fa50800000000000000
+      internalID: 6553262382909895569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_3
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 949
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b50fbfe58413420800000000000000
+      internalID: 2607945232015186828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_4
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 795
+        width: 199
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba67e3d6037c286b0800000000000000
+      internalID: -5295451201029114197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_5
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 929
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fde2de18bbb3a40800000000000000
+      internalID: 5349075149137043308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_6
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 946
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5df6c02f8eabc80800000000000000
+      internalID: -8306070436443073096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_7
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 803
+        width: 155
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb99311f7adcf75d0800000000000000
+      internalID: -3062503100400821826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_8
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 805
+        width: 154
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc51112777502d300800000000000000
+      internalID: 275288537795990989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_9
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 821
+        width: 161
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff8849cf60536570800000000000000
+      internalID: 8458692966180491255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_10
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 921
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a91555a06ad4700800000000000000
+      internalID: 526259294783511189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_11
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 931
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e09ae1f41792000800000000000000
+      internalID: 11665058675887764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_12
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 811
+        width: 160
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844b3ac1fda9cc950800000000000000
+      internalID: 6470717047673435208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_13
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 821
+        width: 160
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435fde8c7aafe9b00800000000000000
+      internalID: 837382179275011380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_14
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 787
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c083e90ff82c2f30800000000000000
+      internalID: 4552058399212404931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 641
+        width: 173
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0b53937b8bd4c90800000000000000
+      internalID: -7183882733507727123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_16
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 632
+        width: 160
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ace1d291b1188250800000000000000
+      internalID: 5947022762312854696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 628
+        width: 160
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcfbaa62ac0b1c30800000000000000
+      internalID: 4331069358360755420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_18
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 669
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1490c92a7f896b0800000000000000
+      internalID: -5289205484572032550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_19
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 644
+        width: 161
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce27d280f7df9060800000000000000
+      internalID: 6962520976925339333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_20
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 645
+        width: 161
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b192427b64b951430800000000000000
+      internalID: 3753076592505792795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_21
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 636
+        width: 161
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebee84872ac47060800000000000000
+      internalID: 6950402396016012263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_22
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 646
+        width: 171
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ad747bc7dece080800000000000000
+      internalID: -9156682822444393916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_23
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 520
+        width: 186
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf805454494442c0800000000000000
+      internalID: -4448349974114037798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_24
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 402
+        width: 318
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919105a4ef11dbfc0800000000000000
+      internalID: -3477603553394026215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 413
+        width: 338
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5138916616c32560800000000000000
+      internalID: 7287886421444538714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_26
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 241
+        width: 162
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6512a85e5bf0f3520800000000000000
+      internalID: 2683881176850637142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_27
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 436
+        width: 344
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddf3c58ef1f45f00800000000000000
+      internalID: 1104773884080815582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_28
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 272
+        width: 153
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b083cbc78e9ac70800000000000000
+      internalID: 8982966554198543228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_29
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 231
+        width: 168
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633ce196435d44ca0800000000000000
+      internalID: -6033463179690982602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 267
+        width: 324
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64f143eb555322e0800000000000000
+      internalID: -2151782343809829781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_31
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 236
+        width: 155
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bc88488b477e020800000000000000
+      internalID: 2370992064680217424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_32
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 315
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60dfe1200793cd80800000000000000
+      internalID: -8231569667077975956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_33
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 348
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25eae0e266cb11f60800000000000000
+      internalID: 8003385159859482194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_34
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 269
+        width: 209
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a5fdb54ac1c55b0800000000000000
+      internalID: -5378392362745636194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_35
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 331
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f949d22ac012cc0800000000000000
+      internalID: -3737692325051850984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_36
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 337
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9380b5a4ed531670800000000000000
+      internalID: 8508247357646734239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_37
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 240
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7517877cbce988300800000000000000
+      internalID: 254627977008542039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_38
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 225
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebeaa177add3e4d10800000000000000
+      internalID: 2111693283793743550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_39
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 241
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3e5942ee4f76780800000000000000
+      internalID: -8689707652334885984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_40
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 206
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed08e483ec54665e0800000000000000
+      internalID: -1916767839389318946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_41
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 229
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c085deca3f154d0800000000000000
+      internalID: -3147466740513371006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_42
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 229
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107120c813013b590800000000000000
+      internalID: -7659760736238692607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_43
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 232
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082fd5c65bea799a0800000000000000
+      internalID: -6226315865586011520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_44
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 141
+        width: 126
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b710ca1aa0f093710800000000000000
+      internalID: 1673385274881343867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_45
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 224
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a4c15c230c10300800000000000000
+      internalID: 216665581378357896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_46
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 149
+        width: 131
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d002df57884acb0800000000000000
+      internalID: -4853604458059264724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_47
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 66
+        width: 206
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc14225086341720800000000000000
+      internalID: 2815935591775214794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_48
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 189
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeeec699efd16f40800000000000000
+      internalID: 5720099196087758507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_49
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 104
+        width: 131
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da70dc09d57d6dc00800000000000000
+      internalID: 925163570332501933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_50
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 190
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706ba27d9284433a0800000000000000
+      internalID: -6686640202197584377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_51
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 165
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eda094b057c8a590800000000000000
+      internalID: -7662655616530207263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_52
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 30
+        width: 139
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8925a3bfebd67d890800000000000000
+      internalID: -7433351992925597032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_53
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 165
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f0f5e8054546380800000000000000
+      internalID: -8978959052107215072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_54
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 167
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1241d8aaa9c5e2d40800000000000000
+      internalID: 5561484409205232673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_55
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 165
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d09c5cd753ef930800000000000000
+      internalID: 4178836318551870879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_56
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 6
+        width: 81
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1606c54234de44d20800000000000000
+      internalID: 3261992902751707233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_57
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 165
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b91564ec3f672370800000000000000
+      internalID: 8297723145773980084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_58
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 56
+        width: 200
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3218594147921f270800000000000000
+      internalID: 8282446768249340195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_59
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 170
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b68a07f718f02a40800000000000000
+      internalID: 5341541939874006705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_60
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 171
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae46c3251336caa0800000000000000
+      internalID: -6141164875985563996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_61
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 166
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0ce06c264012360800000000000000
+      internalID: 7142995306262479072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_62
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 129
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4587da404492fd0800000000000000
+      internalID: -2366285342325582619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon_mat2-removebg_63
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 116
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42daac56eaafed00800000000000000
+      internalID: 1004209148300808782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
