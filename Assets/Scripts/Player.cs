@@ -22,6 +22,9 @@ public class Player : MonoBehaviour {
     public GameObject spawner;
     public GameObject restartDisplay;
 
+    public bool PowerupIsActivated = false;
+    public bool TimeForTimeScale1;
+
     private void Update()
     {
 
@@ -48,11 +51,26 @@ public class Player : MonoBehaviour {
     }
    public void ActivatePowerUp()
     {
+        PowerupIsActivated = true;
         playerAnim.SetTrigger("Invincible");
+        Time.timeScale = 1.5f;
+        StartCoroutine(DoCheck());
+       
+
+    }
+    IEnumerator DoCheck()
+    {       
+        yield return new WaitForSeconds(5f);
+        Time.timeScale = 1;
+        PowerupIsActivated = false;
     }
     public void ObstacleHit()
     {
-        health--;
-        camAnim.SetTrigger("shake");
+        if (PowerupIsActivated == false)
+        {
+            health--;
+            camAnim.SetTrigger("shake");
+        }
+       
     }
 }

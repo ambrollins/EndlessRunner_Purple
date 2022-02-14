@@ -17,5 +17,8 @@ public class Score : MonoBehaviour {
     {
         score++;
         Destroy(other.gameObject);
+
     }
+
+    
 }

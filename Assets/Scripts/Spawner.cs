@@ -23,11 +23,13 @@ public class Spawner : MonoBehaviour {
             int rand = Random.Range(0, obstacleTemplate.Length);
             Instantiate(obstacleTemplate[rand], transform.position, Quaternion.identity);
             timeBtwSpawns = startTimeBtwSpawns;
-            if (startTimeBtwSpawns > minTime) {
+            if (startTimeBtwSpawns > minTime) 
+            {
                 startTimeBtwSpawns -= timeDecrease;
             }
         }
-        else {
+        else 
+        {
             timeBtwSpawns -= Time.deltaTime;
         }
     }

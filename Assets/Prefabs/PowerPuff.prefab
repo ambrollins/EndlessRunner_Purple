@@ -136,6 +136,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+  PPEffect: {fileID: 4831653243527064584, guid: 86db95cf225817d4f93732de85587618,
+    type: 3}
 --- !u!114 &739141514908116334
 MonoBehaviour:
   m_ObjectHideFlags: 0
