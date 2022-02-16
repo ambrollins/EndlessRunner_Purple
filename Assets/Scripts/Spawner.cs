@@ -10,6 +10,7 @@ public class Spawner : MonoBehaviour {
     public float minTime;
 
     public GameObject[] obstacleTemplate;
+    public Player player;
 
     private void Start()
     {

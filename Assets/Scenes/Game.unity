@@ -136,6 +136,7 @@ GameObject:
   - component: {fileID: 34959834}
   - component: {fileID: 34959833}
   - component: {fileID: 34959836}
+  - component: {fileID: 34959837}
   m_Layer: 5
   m_Name: RestartDisplay
   m_TagString: Untagged
@@ -159,8 +160,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000034332, y: -34.432}
-  m_SizeDelta: {x: 1169, y: 499.12}
+  m_AnchoredPosition: {x: 0.000034332, y: 29.213}
+  m_SizeDelta: {x: 1169, y: 528.695}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &34959833
 MonoBehaviour:
@@ -210,9 +211,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'PRESS ENTER TO RESTART
-
-'
+  m_Text: "PRESS : \n\"ENTER\" TO RESTART\n\n\"M\" FOR MAINMENU\n"
 --- !u!222 &34959835
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -231,6 +230,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bd851b8dce3cdf4499d24eaab7506e4d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneMnger: {fileID: 34959837}
+--- !u!114 &34959837
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 34959831}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ea059a47d159c94f8d5ea55ce174bac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &220732720
@@ -283,6 +295,7 @@ MonoBehaviour:
   - {fileID: 1898355023154060, guid: 52856c1901f1ba44ba9ff76e820ec182, type: 3}
   - {fileID: 1188669705818162, guid: df64ec8957c621940b80dac0ecdbf483, type: 3}
   - {fileID: 1065693408441526, guid: 5bca6548d59ee304282925a680ed9c1c, type: 3}
+  player: {fileID: 0}
 --- !u!1 &300617170
 GameObject:
   m_ObjectHideFlags: 0
@@ -379,6 +392,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+  player: {fileID: 0}
   Xend: -42
   Xstart: 42
   ActivatePowerUp: 0
@@ -642,6 +656,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
+  player: {fileID: 0}
   Xend: -42
   Xstart: 42
   ActivatePowerUp: 0
@@ -741,6 +756,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
+  player: {fileID: 0}
   Xend: -42
   Xstart: 42
   ActivatePowerUp: 0
@@ -965,6 +981,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+  player: {fileID: 0}
   Xend: -42
   Xstart: 42
   ActivatePowerUp: 0
@@ -1337,7 +1354,7 @@ MonoBehaviour:
   spawner: {fileID: 220732720}
   restartDisplay: {fileID: 34959831}
   PowerupIsActivated: 0
-  TimeForTimeScale1: 0
+  isAlive: 1
 --- !u!61 &1227629515
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1481,6 +1498,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
+  player: {fileID: 0}
   Xend: -42
   Xstart: 42
   ActivatePowerUp: 0
@@ -1580,6 +1598,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
+  player: {fileID: 0}
   Xend: -42
   Xstart: 42
   ActivatePowerUp: 0
@@ -1679,6 +1698,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
+  player: {fileID: 0}
   Xend: -42
   Xstart: 42
   ActivatePowerUp: 0
@@ -1875,6 +1895,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
+  player: {fileID: 0}
   Xend: -42
   Xstart: 42
   ActivatePowerUp: 0
@@ -1974,6 +1995,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
+  player: {fileID: 0}
   Xend: -42
   Xstart: 42
   ActivatePowerUp: 0
@@ -2073,6 +2095,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+  player: {fileID: 0}
   Xend: -42
   Xstart: 42
   ActivatePowerUp: 0
@@ -2172,6 +2195,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+  player: {fileID: 0}
   Xend: -42
   Xstart: 42
   ActivatePowerUp: 0
@@ -2271,6 +2295,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
+  player: {fileID: 0}
   Xend: -42
   Xstart: 42
   ActivatePowerUp: 0
