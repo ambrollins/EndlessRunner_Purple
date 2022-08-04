@@ -6,7 +6,7 @@ public class MovingParts : MonoBehaviour
 {
     public float speed;
     //   public GameObject effect;
-    public Player player;
+    //public Player player;
     void Update()
     {
         MoveObject();
